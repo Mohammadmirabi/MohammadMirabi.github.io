@@ -865,20 +865,24 @@ p {
 }
 
 .img {
-    height: 215px;
-    border: 2px solid white;
+    height: 213px;
+    border: 1.5px solid white;
     border-radius: 15px;
-    box-shadow: 0 0 8px white;
+    box-shadow: 0 0 10px white;
     display: block;
     margin: 10px auto;
 }
 
 .imge {
-    height: 226px;
-    border: 2px solid white;
-    border-radius: 15px;
-    box-shadow: 0 0 8px white;
+    height: 225px;
+    border: 1.5px solid white;
+    border-radius: 20px;
+    box-shadow: 0 0 10px white;
     display: block;
     margin: 10px auto;
+<<<<<<< HEAD
 >>>>>>> 841b43a (loading)
 }
+=======
+}
+>>>>>>> 8648fcb (update)
